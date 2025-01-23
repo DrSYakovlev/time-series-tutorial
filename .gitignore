@@ -5,3 +5,5 @@ instance/
 venv/
 # Raw data:
 inputs/
+# Notes:
+notes.md
